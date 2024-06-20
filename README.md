@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Node.js, Express.js, and TypeScript**
 
-- 📫 How to reach me : [linkedin](https://www.linkedin.com/in/ahmadalasiri/) or [Mail](mailto:contact@ahmedalasiri.tech)
+<!-- - 📫 How to reach me : [linkedin](https://www.linkedin.com/in/ahmadalasiri/) or [Mail](mailto:contact@ahmedalasiri.tech) -->
 
 - 📄 Know about my experiences [My CV](https://flowcv.com/resume/ejsudpqps0)
 
