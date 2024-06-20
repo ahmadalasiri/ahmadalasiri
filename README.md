@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Backend Developer from Egypt 🚀. I have a strong passion for learning new technologies and building software solutions. I am always looking for ways to improve my skills and knowledge in the field of software development.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadalasiri" alt="ahmadalasiri" /></a> </p> -->
+<h2 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h2>
+<br>
 
 - 👩🏻‍🎓 Studied Computer Science at Helwan University
 
@@ -17,39 +19,69 @@
 
 - ⚡ Fun fact: I love playing chess ♟
 
-<h3 align="center"> 📫 Connect with me: </h3>
-<p align="center">
+<h3> 📫 Connect with me: </h3>
+<p>
   <a href="https://linkedin.com/in/ahmadalasiri" target="blank">
     <img src="https://img.shields.io/badge/ahmadalasiri-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="mailto:contact@ahmedalasiri.tech" target="blank">
     <img src="https://img.shields.io/badge/ahmedalasiri-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</p>
 
-<h3 align="center"> 🛠️ Languages and Tools: </h3>
+<br>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+&nbsp;
+&nbsp;
+<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=336791" alt="Postgres logo" title="Postgres" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Github%20Actions-282C34?logo=github-actions&logoColor=2088FF" alt="Github Actions logo" title="Github Actions" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Kafka-282C34?logo=apache-kafka&logoColor=231F20" alt="Kafka logo" title="Kafka" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=A86454" alt="Pug logo" title="Pug" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=333333" alt="Render logo" title="Render" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bash-282C34?logo=gnu-bash&logoColor=4EAA25" alt="Bash logo" title="Bash" height="25" /></span>
+&nbsp;
+<br>
+<br>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Eslint](https://img.shields.io/badge/-Eslint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Render](https://img.shields.io/badge/Render-333333?style=for-the-badge&logo=render&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-# 📊GitHub Stats :
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadalasiri&theme=tokyonight)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmadalasiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
