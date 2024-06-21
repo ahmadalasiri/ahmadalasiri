@@ -22,10 +22,10 @@
 <h3> 📫 Connect with me: </h3>
 <p>
   <a href="https://linkedin.com/in/ahmadalasiri" target="blank">
-    <img src="https://img.shields.io/badge/ahmadalasiri-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="mailto:contact@ahmedalasiri.tech" target="blank">
-    <img src="https://img.shields.io/badge/ahmedalasiri-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>
 
@@ -55,6 +55,8 @@
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=336791" alt="Postgres logo" title="Postgres" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CI/CD-282C34?logo=github-actions&logoColor=2088FF" alt="CI/CD logo" title="CI/CD" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Github%20Actions-282C34?logo=github-actions&logoColor=2088FF" alt="Github Actions logo" title="Github Actions" height="25" /></span>
 &nbsp;
