@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [My CV](https://flowcv.com/resume/ejsudpqps0)
 
-- ⚡ Fun fact: I love playing chess ♟
+<!-- - ⚡ Fun fact: I love playing chess ♟ -->
 
 <h3> 📫 Connect with me: </h3>
 <p>
