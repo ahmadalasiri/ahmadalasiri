@@ -7,13 +7,11 @@
 
 - 👩🏻‍🎓 Studied Computer Science at Helwan University
 
-- 🔭 I’m currently working on **on something cool 😉**
+- 🔭 I’m currently working **on something cool 😉**
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 💬 Ask me about **Node.js, Express.js, and TypeScript**
-
-<!-- - 📫 How to reach me : [linkedin](https://www.linkedin.com/in/ahmadalasiri/) or [Mail](mailto:contact@ahmedalasiri.tech) -->
+- 💬 Ask me about **Node.js, Express, and TypeScript**
 
 - 📄 Know about my experiences [My CV](https://flowcv.com/resume/ejsudpqps0)
 
