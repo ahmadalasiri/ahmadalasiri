@@ -5,11 +5,13 @@
 <h2 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h2>
 <br>
 
-- 👩🏻‍🎓 Studied Computer Science at Helwan University
+- 👩🏻‍🎓 I have a Bachelor's degree in **Computer Science** from **Helwan University**.
 
-- 🌱 currently learing **Nest.js**
+- 🌱 I’m currently learning **Nest.js** and exploring **Distributed Systems**.
 
-- 💬 Ask me about **Node.js, Express, and TypeScript**
+- 💬 Ask me about **Anything**. I am happy to help you.
+
+- 🔭 I’m looking for a new opportunity as a Backend Developer.
 
 - 📄 Know about my experiences [My CV](https://flowcv.com/resume/ejsudpqps0)
 
@@ -41,6 +43,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
@@ -73,8 +76,6 @@
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=333333" alt="Render logo" title="Render" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bash-282C34?logo=gnu-bash&logoColor=4EAA25" alt="Bash logo" title="Bash" height="25" /></span>
 &nbsp;
 <br>
 <br>
