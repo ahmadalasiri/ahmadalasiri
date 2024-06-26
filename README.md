@@ -7,9 +7,7 @@
 
 - 👩🏻‍🎓 Studied Computer Science at Helwan University
 
-- 🔭 I’m currently working **on something cool 😉**
-
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 currently learing **Nest.js**
 
 - 💬 Ask me about **Node.js, Express, and TypeScript**
 
