@@ -7,7 +7,7 @@
 
 - 👩🏻‍🎓 I have a Bachelor's degree in **Computer Science** from **Helwan University**.
 
-- 🌱 I’m currently learning **Nest.js** and exploring **Distributed Systems**.
+- 🌱 I’m currently learning **Nest.js** and exploring **Distributed Systems** and **Microservices Architecture**.
 
 - 💬 Ask me about **Anything**. I am happy to help you.
 
