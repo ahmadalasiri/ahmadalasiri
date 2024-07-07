@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything**. I am happy to help you.
 
-- 🔭 I’m looking for a new opportunity as a Backend Developer.
+- 🔭 I’m looking for a new opportunity as a Backend Engineer.
 
 - 📄 Know about my experiences [My CV](https://flowcv.com/resume/ejsudpqps0)
 
