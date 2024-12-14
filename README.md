@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h2 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h2>
-<h3 align="center">A passionate  Backend Software Engineer from Egypt 🚀. I have a strong passion for learning new technologies and building software solutions. I am always looking for ways to improve my skills and knowledge in the field of software development.</h3>
+<h3 align="center">A passionate Software Engineer from Egypt 🚀. I have a strong passion for learning new technologies and building software solutions. I am always looking for ways to improve my skills and knowledge in the field of software development.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadalasiri" alt="ahmadalasiri" /></a> </p> -->
 <br>
 
-- 👩🏻‍🎓 I have a Bachelor's degree in **Computer Science** from **Helwan University**.
+- 💼 Backend Engineer with expertise in Go, Node.js, TypeScript, and AWS cloud services. Passionate about building scalable and maintainable systems.
 
-- 🌱 I’m currently learning **Nest.js** and exploring **Distributed Systems** and **Microservices Architecture**.
+- 👨‍🎓 I hold a **Bachelor's Degree in Computer Science** 
 
-- 💬 Ask me about **Anything**. I am happy to help you.
+- 🚀 Currently mastering **Go** while diving deep into **Distributed Systems**, **Microservices Architecture**, and **Cloud-Native Development**.
 
-- 🔭 I’m looking for a new opportunity as a Backend Engineer.
+- 🌟 Skilled in designing RESTful APIs, implementing microservices, and working with various databases (MongoDB, PostgreSQL, Redis).
 
-- 📄 Know about my experiences [My CV](https://flowcv.com/resume/ejsudpqps0)
+- 📚 Continuously learning and exploring new technologies to stay at the forefront of software development.
+
+- 📄 For a detailed look at my professional journey, check out [My CV](https://flowcv.com/resume/ejsudpqps0)
+
+- 💬 Open to discussing anything related to backend development, system design, or software architecture!
 
 <!-- - ⚡ Fun fact: I love playing chess ♟ -->
-
 <h3> 📫 Connect with me: </h3>
 <p>
   <a href="https://linkedin.com/in/ahmadalasiri" target="blank">
@@ -39,6 +42,18 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go logo" title="Go" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Gin-282C34?logo=go&logoColor=00ADD8" alt="Gin logo" title="Gin" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TSOA-282C34?logo=typescript&logoColor=3178C6" alt="TSOA logo" title="TSOA" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=FF9900" alt="AWS logo" title="AWS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/SQS-282C34?logo=amazon-sqs&logoColor=FF9900" alt="Amazon SQS logo" title="Amazon SQS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/EC2-282C34?logo=amazon-ec2&logoColor=FF9900" alt="Amazon EC2 logo" title="Amazon EC2" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" alt="Redis logo" title="Redis" height="25" /></span>
@@ -50,8 +65,6 @@
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx logo" title="Nginx" height="25" /></span>
 &nbsp;
@@ -78,8 +91,6 @@
 <span><img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=A86454" alt="Pug logo" title="Pug" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Render-282C34?logo=render&logoColor=333333" alt="Render logo" title="Render" height="25" /></span>
 &nbsp;
 <br>
 <br>
