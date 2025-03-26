@@ -10,8 +10,6 @@ while continuously expanding my technical expertise in modern development practi
 
 - 👨‍🎓 I hold a **Bachelor's Degree in Computer Science** 
 
-- 🚀 Currently mastering **Go** while diving deep into **Distributed Systems**, **Microservices Architecture**, and **Cloud-Native Development**.
-
 - 🌟 Skilled in designing RESTful APIs, implementing microservices, and working with various databases (MongoDB, PostgreSQL, Redis).
 
 - 📚 Continuously learning and exploring new technologies to stay at the forefront of software development.
