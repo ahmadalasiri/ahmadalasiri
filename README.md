@@ -8,13 +8,13 @@ while continuously expanding my technical expertise in modern development practi
 
 - 💼 Backend Engineer with expertise in Go, Node.js, TypeScript, and AWS cloud services. Passionate about building scalable and maintainable systems.
 
-- 👨‍🎓 I hold a **Bachelor's Degree in Computer Science** 
+- 👨‍🎓 I hold a **Bachelor's Degree in Computer Science**
 
 - 🌟 Skilled in designing RESTful APIs, implementing microservices, and working with various databases (MongoDB, PostgreSQL, Redis).
 
 - 📚 Continuously learning and exploring new technologies to stay at the forefront of software development.
 
-- 📄 For a detailed look at my professional journey, check out [My CV](https://flowcv.com/resume/ejsudpqps0)
+- 📄 For a detailed look at my professional journey, check out [My CV](https://www.ahmadalasiri.info/Ahmad%20Mostafa%20-%20Software%20Engineer.pdf)
 
 - 💬 Open to discussing anything related to backend development, system design, or software architecture!
 
@@ -24,7 +24,7 @@ while continuously expanding my technical expertise in modern development practi
   <a href="https://linkedin.com/in/ahmadalasiri" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-  <a href="mailto:contact@ahmedalasiri.tech" target="blank">
+  <a href="mailto:contact@ahmadalasiri.info" target="blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </p>
