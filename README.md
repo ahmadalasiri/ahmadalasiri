@@ -6,7 +6,7 @@ while continuously expanding my technical expertise in modern development practi
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadalasiri" alt="ahmadalasiri" /></a> </p> -->
 <br>
 
-- 💼 Backend Engineer with expertise in Go, Node.js, TypeScript, and AWS cloud services. Passionate about building scalable and maintainable systems.
+- 💼 Backend Engineer with expertise in Go, Node.js, TypeScript, and AWS. Passionate about building scalable and maintainable systems.
 
 - 👨‍🎓 I hold a **Bachelor's Degree in Computer Science**
 
