@@ -6,13 +6,15 @@
 
 - 👨‍🎓 I hold a **Bachelor's Degree in Computer Science**
 
-- 🌟 Skilled in designing RESTful APIs, implementing microservices, and working with various databases (MongoDB, PostgreSQL, Redis).
+- 🌟 Skilled in designing RESTful APIs, implementing microservices, building responsive web applications, and working with various databases (MongoDB, PostgreSQL, Redis).
 
 - 📚 Continuously learning and exploring new technologies to stay at the forefront of software development.
 
+- 🎯 **Currently Learning:** Kubernetes, GraphQL, and Advanced React Patterns
+
 - 📄 For a detailed look at my professional journey, check out [My CV](https://www.ahmadalasiri.info/Ahmad%20Mostafa%20-%20Software%20Engineer.pdf)
 
-- 💬 Open to discussing anything related to backend development, system design, or software architecture!
+- 💬 Open to discussing anything related to fullstack development, system design, software architecture, or modern web technologies!
 
 <!-- - ⚡ Fun fact: I love playing chess ♟ -->
 <h3> 📫 Connect with me: </h3>
@@ -22,7 +24,10 @@
   </a>
   <a href="mailto:contact@ahmadalasiri.info" target="blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
+  </a>
+  <a href="https://ahmadalasiri.info" target="blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
 </p>
 
 <br>
@@ -38,6 +43,8 @@
 <span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
@@ -88,7 +95,22 @@
 <br>
 <br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- <h2 align="center">� Featured Projects 🚀</h2>
+<br>
+
+<div align="center">
+
+| Project                    | Description                                             | Tech Stack                          | Links                                  |
+| -------------------------- | ------------------------------------------------------- | ----------------------------------- | -------------------------------------- |
+| 🌐 **Portfolio Website**   | Personal portfolio showcasing my work and skills        | Next.js, TypeScript, Tailwind CSS   | [Live Demo](https://ahmadalasiri.info) |
+| 🔧 **Microservices API**   | Scalable backend system with microservices architecture | Go, Node.js, PostgreSQL, Redis, AWS | [GitHub](#)                            |
+| 📱 **E-commerce Platform** | Full-stack e-commerce solution with modern UI           | React, Next.js, MongoDB, Stripe API | [GitHub](#)                            |
+| ⚡ **Real-time Chat App**  | WebSocket-based chat application                        | Node.js, Socket.io, React, MongoDB  | [GitHub](#)                            |
+
+</div> -->
+
+<br>
+<h2 align="center">�🔥 GitHub Stats 🔥</h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadalasiri&theme=tokyonight)
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmadalasiri&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
