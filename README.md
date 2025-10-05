@@ -1,20 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Mostafa</h1>
 <h2 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h2>
 <br>
 
-- 💼 Fullstack Engineer with expertise in Go, Node.js, TypeScript, React.js, Next.js, and AWS. Passionate about building scalable and maintainable systems.
+- 💼 **Full Stack Engineer** at **TIXAE.AI** - Building AI-powered solutions for modern businesses
 
-- 👨‍🎓 I hold a **Bachelor's Degree in Computer Science**
+- 🎯 Backend-focused Software Engineer with hands-on experience designing and delivering **scalable, high-performance systems** using **Go**, **Node.js**, and **React**
 
-- 🌟 Skilled in designing RESTful APIs, implementing microservices, building responsive web applications, and working with various databases (MongoDB, PostgreSQL, Redis).
+- 👨‍🎓 **Bachelor's Degree in Computer Science** from Helwan University, Cairo, Egypt
 
-- 📚 Continuously learning and exploring new technologies to stay at the forefront of software development.
+- 🌟 Skilled in **API design**, **microservices**, and **distributed architectures**, with a strong focus on reliability, clean code, and system performance
+
+- 🚀 Proven track record of building **SaaS platforms**, **AI-powered applications**, and **e-commerce solutions** for startups and international clients
+
+- 💡 Expertise in **database design & optimization**, **payment gateway integrations** (Stripe, Paymob), **real-time systems** (WebSockets), and **cloud infrastructure** (AWS)
+
+- 📚 Continuously learning and exploring new technologies to stay at the forefront of software development
 
 - 🎯 **Currently Learning:** Kubernetes, GraphQL, and Advanced React Patterns
 
 - 📄 For a detailed look at my professional journey, check out [My CV](https://www.ahmadalasiri.info/Ahmad%20Mostafa%20-%20Software%20Engineer.pdf)
 
-- 💬 Open to discussing anything related to fullstack development, system design, software architecture, or modern web technologies!
+- 💬 Open to discussing anything related to fullstack development, system design, software architecture, distributed systems, or AI integration!
 
 <!-- - ⚡ Fun fact: I love playing chess ♟ -->
 <h3> 📫 Connect with me: </h3>
@@ -47,6 +53,8 @@
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="NestJS logo" title="NestJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go logo" title="Go" height="25" /></span>
 &nbsp;
@@ -88,6 +96,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Stripe-282C34?logo=stripe&logoColor=008CDD" alt="Stripe logo" title="Stripe" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=A86454" alt="Pug logo" title="Pug" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
@@ -123,8 +133,8 @@
 
 ---
 
-<br>
-<h3 align="center"> 
+<!-- <br>
+<h3 align="center">
   Visitor count <br><br>
   <img  src="https://profile-counter.glitch.me/ahmadalasiri/count.svg" />
-</h3>
+</h3> -->
