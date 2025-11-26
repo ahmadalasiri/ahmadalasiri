@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Mostafa</h1>
 <h2 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h2>
-<br>
-
-- 💼 **Full Stack Engineer** at **TIXAE.AI** - Building AI-powered solutions for modern businesses
+<br> 
 
 - 🎯 Backend-focused Software Engineer with hands-on experience designing and delivering **scalable, high-performance systems** using **Go**, **Node.js**, and **React**
 
