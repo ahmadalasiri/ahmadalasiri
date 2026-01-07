@@ -100,6 +100,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="Socket.io logo" title="Socket.io" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Drizzle-282C34?logo=typescript&logoColor=3178C6" alt="Drizzle ORM logo" title="Drizzle ORM" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/FFmpeg-282C34?logo=ffmpeg&logoColor=007808" alt="FFmpeg logo" title="FFmpeg" height="25" /></span>
+&nbsp;
 <br>
 <br>
 
