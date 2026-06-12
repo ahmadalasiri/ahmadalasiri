@@ -1,37 +1,37 @@
-<h1 align="center">Hi 👋, I'm Ahmad Mostafa</h1>
+<h1 align="center">Hi 👋, I'm Taha Shabaan</h1>
 <h2 align="center">👨🏻‍💻 About Me 👨🏻‍💻</h2>
 <br> 
 
 - 🎯 Backend-focused Software Engineer with hands-on experience designing and delivering **scalable, high-performance systems** using **Go**, **Node.js**, and **React**
 
-- 👨‍🎓 **Bachelor's Degree in Computer Science** from Helwan University, Cairo, Egypt
+- 👨‍🎓 **Bachelor's Degree in Computer Science** from Beni Suef University, Beni Suef, Egypt
 
 - 🌟 Skilled in **API design**, **microservices**, and **distributed architectures**, with a strong focus on reliability, clean code, and system performance
 
-- 🚀 Proven track record of building **SaaS platforms**, **AI-powered applications**, and **e-commerce solutions** for startups and international clients
+- 🚀 Proven track record of building **SaaS platforms**, **AI-powered applications**, and **ERP && CRM solutions** for startups and international clients
 
-- 💡 Expertise in **database design & optimization**, **payment gateway integrations** (Stripe, Paymob), **real-time systems** (WebSockets), and **cloud infrastructure** (AWS)
+- 💡 Expertise in **database design & optimization**, **payment gateway integrations** (Stripe, Paymob), **real-time systems** (WebSockets), and **cloud infrastructure** (AWS, AZURE)
 
 - 📚 Continuously learning and exploring new technologies to stay at the forefront of software development
 
-- 🎯 **Currently Learning:** Kubernetes, GraphQL, and Advanced React Patterns
+- 🎯 **Currently Learning:** Advanced Database, DSA
 
-- 📄 For a detailed look at my professional journey, check out [My CV](https://www.ahmadalasiri.info/Ahmad%20Mostafa%20-%20Software%20Engineer.pdf)
+- 📄 For a detailed look at my professional journey, check out [My CV]()
 
-- 💬 Open to discussing anything related to fullstack development, system design, software architecture, distributed systems, or AI integration!
+- 💬 Open to discussing anything related to Backend Developer, fullstack development, system design, software architecture, distributed systems, or AI integration!
 
 <!-- - ⚡ Fun fact: I love playing chess ♟ -->
 <h3> 📫 Connect with me: </h3>
 <p>
-  <a href="https://linkedin.com/in/ahmadalasiri" target="blank">
+  <a href="https://linkedin.com/in/taha-shabaan" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
-  <a href="mailto:contact@ahmadalasiri.info" target="blank">
+  <a href="mailto:tahashabaan48@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://ahmadalasiri.info" target="blank">
+  <!-- <a href="https://ahmadalasiri.info" target="blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
+  </a> -->
 </p>
 
 <br>
